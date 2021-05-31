@@ -15,6 +15,12 @@ pip install python-docx
        "${yourvarname}: "what_ever_data_you_want"
     }
 
+${yourvarname} indicates the field in word document to be replaced by.
+"what_ever_data_you_want" is the field to be replaced by in word document
+
+
+```
+```
 2. append your input and output file paths
 
     template_file_path = 'test.docx'
@@ -22,16 +28,9 @@ pip install python-docx
 
 replace 'test.docx' to your file that you wanna append
 replace 'result.docx' to your output file
-
-
+```
+```
 3. Run Script
-
-```
-
-
-```
-${yourvarname} indicates the field in word document to be replaced by.
-"what_ever_data_you_want" is the field to be replaced by in word document
 ```
 
 # Diagram
