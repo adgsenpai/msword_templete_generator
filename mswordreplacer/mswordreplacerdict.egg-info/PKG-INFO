@@ -1,0 +1,22 @@
+Metadata-Version: 1.1
+Name: mswordreplacerdict
+Version: 0.0.1
+Summary: python program to convert data dictionaries to replace fields in word document
+Home-page: UNKNOWN
+Author: Ashlin Darius Govindasamy
+Author-email: adgrules@hotmail.com
+License: MIT
+Description: python program to convert data dictionaries to replace fields in word document
+        
+        Change Log
+        ==========
+        0.0.1 (2021/05/31)
+        -------------------
+        First Release 
+Keywords: msword
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
