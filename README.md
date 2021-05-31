@@ -12,3 +12,5 @@ to use program replace variables dictionary to your variables in your document
 ```
 
 # Diagram
+<img src="https://github.com/ADGVLOGS/msword_templete_generator/edit/main/doc.PNG" width="300" height="225">
+ 
